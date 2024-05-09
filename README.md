@@ -6,7 +6,4 @@
 - 💬 Ask me about teaching you to program in Python, I am good, no doubt
 - 📫 How to reach me: Use my [email](mailto://dani250b@gmail.com)
 - 😄 Pronouns: @mugboy
-- ⚡ Fun fact: I do know a little bit of C or C++
-- 🧑‍🤝‍🧑 My freinds are in the following: [^freinds]
-
-[^freinds]: Ethan, Ben (Benedict), Anthony, Jion, Shavit, Nevo, Hrida, ...
+- ⚡ Fun fact: I do know a little bit of C, C++ or C#
